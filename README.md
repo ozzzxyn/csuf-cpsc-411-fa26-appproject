@@ -7,3 +7,9 @@
 ### with a focus of only 2-3 languages
 
 Includes lessons, dictionary, stats, a word of the day, and more to come.
+
+So far:
+
+<p align="center">
+  <img src="images/hello.png" width="250" alt="Checkpoint 2"
+</p>
